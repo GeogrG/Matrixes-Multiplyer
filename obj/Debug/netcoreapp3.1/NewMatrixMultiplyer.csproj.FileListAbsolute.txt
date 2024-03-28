@@ -1,0 +1,13 @@
+/Users/king-georg/Projects/NewMatrixMultiplyer/NewMatrixMultiplyer/bin/Debug/netcoreapp3.1/NewMatrixMultiplyer.deps.json
+/Users/king-georg/Projects/NewMatrixMultiplyer/NewMatrixMultiplyer/bin/Debug/netcoreapp3.1/NewMatrixMultiplyer.runtimeconfig.json
+/Users/king-georg/Projects/NewMatrixMultiplyer/NewMatrixMultiplyer/bin/Debug/netcoreapp3.1/NewMatrixMultiplyer.runtimeconfig.dev.json
+/Users/king-georg/Projects/NewMatrixMultiplyer/NewMatrixMultiplyer/bin/Debug/netcoreapp3.1/NewMatrixMultiplyer.dll
+/Users/king-georg/Projects/NewMatrixMultiplyer/NewMatrixMultiplyer/bin/Debug/netcoreapp3.1/NewMatrixMultiplyer.pdb
+/Users/king-georg/Projects/NewMatrixMultiplyer/NewMatrixMultiplyer/obj/Debug/netcoreapp3.1/NewMatrixMultiplyer.csproj.AssemblyReference.cache
+/Users/king-georg/Projects/NewMatrixMultiplyer/NewMatrixMultiplyer/obj/Debug/netcoreapp3.1/NewMatrixMultiplyer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/king-georg/Projects/NewMatrixMultiplyer/NewMatrixMultiplyer/obj/Debug/netcoreapp3.1/NewMatrixMultiplyer.AssemblyInfoInputs.cache
+/Users/king-georg/Projects/NewMatrixMultiplyer/NewMatrixMultiplyer/obj/Debug/netcoreapp3.1/NewMatrixMultiplyer.AssemblyInfo.cs
+/Users/king-georg/Projects/NewMatrixMultiplyer/NewMatrixMultiplyer/obj/Debug/netcoreapp3.1/NewMatrixMultiplyer.csproj.CoreCompileInputs.cache
+/Users/king-georg/Projects/NewMatrixMultiplyer/NewMatrixMultiplyer/obj/Debug/netcoreapp3.1/NewMatrixMultiplyer.dll
+/Users/king-georg/Projects/NewMatrixMultiplyer/NewMatrixMultiplyer/obj/Debug/netcoreapp3.1/NewMatrixMultiplyer.pdb
+/Users/king-georg/Projects/NewMatrixMultiplyer/NewMatrixMultiplyer/obj/Debug/netcoreapp3.1/NewMatrixMultiplyer.genruntimeconfig.cache
